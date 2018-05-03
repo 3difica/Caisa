@@ -42,6 +42,7 @@ Clase.prototype.grandesCosas = function(){
 (function(){
 
 	alert("Ahora?");
+	return 0;
 	
 });
 
