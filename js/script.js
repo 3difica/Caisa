@@ -18,10 +18,6 @@ Clase.prototype.grandesCosas = function(){
 	})();
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c655c096882be8a61d413680d479c4f09652124c
    var funcionDeclarada = function(){
    	return une;
 
@@ -32,11 +28,7 @@ Clase.prototype.grandesCosas = function(){
    }
 
 })();
-<<<<<<< HEAD
 
-
-=======
->>>>>>> c655c096882be8a61d413680d479c4f09652124c
 
 
 (function(){
@@ -45,7 +37,7 @@ Clase.prototype.grandesCosas = function(){
 	
 });
 
-<<<<<<< HEAD
+
 
 (function(){
 
@@ -53,5 +45,4 @@ Clase.prototype.grandesCosas = function(){
 	
 });
 
-=======
->>>>>>> c655c096882be8a61d413680d479c4f09652124c
+
