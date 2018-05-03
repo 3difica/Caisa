@@ -1,9 +1,14 @@
 var Clase = function(){
-
+  
 }
+
 Clase.prototype.grandesCosas = function(){
 
 };
+
+var intancia = new Clase("hola mundo");
+
+inntancia.grandesCosas();
 
 (function(){
 
@@ -44,5 +49,7 @@ Clase.prototype.grandesCosas = function(){
 	alert("Ahora?");
 	
 });
+
+
 
 
