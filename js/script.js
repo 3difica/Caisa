@@ -47,6 +47,7 @@ inntancia.grandesCosas();
 (function(){
 
 	alert("Ahora?");
+	return 0;
 	
 });
 
