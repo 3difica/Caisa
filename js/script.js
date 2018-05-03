@@ -1,7 +1,7 @@
 var Clase = function(){
   
 }
-
+Clase.prototype.variable = "uno";;
 Clase.prototype.grandesCosas = function(){
 
 };
