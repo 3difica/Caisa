@@ -1,3 +1,10 @@
+var Clase = function(){
+
+}
+Clase.prototype.grandesCosas = function(){
+
+};
+
 (function(){
 
 	alert("function anonima");
@@ -11,6 +18,10 @@
 	})();
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c655c096882be8a61d413680d479c4f09652124c
    var funcionDeclarada = function(){
    	return une;
 
@@ -21,8 +32,11 @@
    }
 
 })();
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c655c096882be8a61d413680d479c4f09652124c
 
 
 (function(){
@@ -31,6 +45,7 @@
 	
 });
 
+<<<<<<< HEAD
 
 (function(){
 
@@ -38,3 +53,5 @@
 	
 });
 
+=======
+>>>>>>> c655c096882be8a61d413680d479c4f09652124c
