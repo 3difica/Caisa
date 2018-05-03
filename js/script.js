@@ -11,4 +11,13 @@
 	})();
 
 
+   var funcionDeclarada = function(){
+   	return une;
+
+   }
+
+   function nombrada(){
+   	return false;
+   }
+
 })();
