@@ -8,6 +8,8 @@ Clase.prototype.grandesCosas = function(){
 
 var intancia = new Clase("hola mundo");
 
+var insta = new Clase("hola mexico");
+
 inntancia.grandesCosas();
 
 (function(){
